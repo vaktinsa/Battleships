@@ -46,3 +46,6 @@ I was finally able to launch the game, but there is a problem that as soon as I 
 Prompt 3
 I want to improve the AI of my battleships game. Currently, the AI completely blindly searches the entire board. 
 Once it has hit a player's ship, the next fire attempts should be in the tiles surrounding the place of the hit (excluding diagonally). Could you please show me an implementation of this behavior?
+
+
+P.S. The initial commit already contains most of the game logic, as I had previously started working on the file, but forgot to create a repository.
